@@ -1,0 +1,15 @@
+/docs/ @SCM-CA2-GROUPWORK/ccb @SCM-CA2-GROUPWORK/devs
+
+/api/ @SCM-CA2-GROUPWORK/devs
+
+/db/ @SCM-CA2-GROUPWORK/devs
+
+/services/ @SCM-CA2-GROUPWORK/devs
+
+/apps/ @SCM-CA2-GROUPWORK/devs
+
+/infra/ @SCM-CA2-GROUPWORK/devs
+
+/haulhub_ci_register_baseline_log.md @SCM-CA2-GROUPWORK/config-managers
+
+/haulhub_software_configuration_management_plan.md @SCM-CA2-GROUPWORK/config-managers
