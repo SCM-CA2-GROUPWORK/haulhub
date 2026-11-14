@@ -1,0 +1,15 @@
+/docs/ @ccb @devs
+
+/api/ @devs
+
+/db/ @devs
+
+/services/ @devs
+
+/apps/ @devs
+
+/infra/ @devs
+
+/haulhub_ci_register_baseline_log.md @config-managers
+
+/haulhub_software_configuration_management_plan.md @config-managers
